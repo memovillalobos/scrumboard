@@ -19,3 +19,12 @@
   margin: 10px;
   border-radius: 5px;
 }
+
+.Task{
+  background-color: cyan;
+}
+
+.Header{
+  display: flex;
+  justify-content: space-between;
+}
